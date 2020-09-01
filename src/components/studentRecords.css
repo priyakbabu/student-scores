@@ -1,0 +1,9 @@
+table {
+    margin: 30px;
+    border: 1px solid black;
+    min-width: 500px;
+}
+
+tr, td {
+    border: 1px solid black;
+}
